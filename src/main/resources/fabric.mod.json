@@ -10,9 +10,9 @@
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/FakeZircon/classiwool-refurbished"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/classiwool-refurbished/icon.png",
 	"environment": "*",
 	"entrypoints": {
