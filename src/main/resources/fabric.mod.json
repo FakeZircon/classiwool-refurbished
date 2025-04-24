@@ -3,9 +3,10 @@
 	"id": "classiwool-refurbished",
 	"version": "${version}",
 	"name": "Classiwool Refurbished",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "A mod that re-adds the classic wool colours alongside their modern dyeable counterparts!",
 	"authors": [
-		"Me!"
+		"FakeZircon",
+		"Fitzs_Space"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
